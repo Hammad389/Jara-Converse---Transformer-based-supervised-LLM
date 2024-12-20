@@ -182,7 +182,3 @@ class AutoCalculateModelParams(object):
 ```
 
 
-# Contributor
-
-<a href = "https://github.com/Anonym0usWork1221>Abdul Moez</a>
-
