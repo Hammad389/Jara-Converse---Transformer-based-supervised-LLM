@@ -2,7 +2,7 @@
 JaraConverse model is an advanced Transformer-based supervised Language Model (LLM) tailored specifically for generating Python code snippets.
 
  *  Date   : 2024/12/20
- *  Author :  **__Hammad Hussain__**,**__Abdul Moez__**
+ *  Author :  **__Hammad Hussain__**, **__Abdul Moez__**
  *  Version : 0.1
 
  MIT License
@@ -184,6 +184,5 @@ class AutoCalculateModelParams(object):
 
 # Contributor
 
-<a href = "https://github.com/Anonym0usWork1221/
-</a>
+<a href = "https://github.com/Anonym0usWork1221>Abdul Moez</a>
 
